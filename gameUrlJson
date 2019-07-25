@@ -3,8 +3,8 @@
     "Tracker_appName" = "";
     "Tracker_channel" = "";
     aspectRatio = 1;
-    isOpen = 0;
+    isOpen = 1;
     result = 0;
-    url = "";
+    url = "http://www.baidu.com";
     zfqd = "alipay://,alipays://,weixin://";
 }
